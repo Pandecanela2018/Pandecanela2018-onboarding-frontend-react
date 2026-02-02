@@ -1,0 +1,1 @@
+Well, if you share information with another company, it should still belong to you, and you need to read all privacy policies before sharing any data. Moreover, I will use two-factor authentication (2FA) with my password as a security measure, and if I work on my laptop, I will not use public internet such as in a cybercafé; I will always work from my home.
