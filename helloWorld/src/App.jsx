@@ -5,6 +5,7 @@ import CallbackRenderDemo from "./components/CallbackRenderDemo";
 import UseMemoPerformanceDemo from "./components/UseMemoPerformanceDemo";
 import UseEffectLifecycleDemo from "./components/UseEffectLifecycleDemo";
 import ListInputDemo from "./components/ListInputDemo";
+import Counter from "./components/Counter";
 import Home from "./pages/Home.jsx";
 import Profile from "./pages/Profile.jsx";
 
@@ -16,6 +17,7 @@ function App() {
         <Link to="/">Home</Link> | <Link to="/profile">Profile</Link>
       </nav>
       <ListInputDemo />
+      <Counter />
       <h1>{t("welcome")}</h1>
       <ContactForm />
       <CallbackRenderDemo />
