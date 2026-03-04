@@ -40,3 +40,33 @@
 .read-the-docs {
   color: #888;
 }
+
+.list-input-demo {
+  margin: 1rem 0 2rem;
+  padding: 1rem;
+  border: 1px solid #646cff;
+  border-radius: 10px;
+}
+
+.list-input-controls {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.list-input-controls input {
+  min-width: 240px;
+  padding: 0.55rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #999;
+}
+
+.list-input-demo ul {
+  margin-top: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+.list-input-demo li {
+  margin: 0.35rem 0;
+}
