@@ -5,7 +5,7 @@ import CallbackRenderDemo from "./components/CallbackRenderDemo";
 import UseMemoPerformanceDemo from "./components/UseMemoPerformanceDemo";
 import UseEffectLifecycleDemo from "./components/UseEffectLifecycleDemo";
 import ListInputDemo from "./components/ListInputDemo";
-import Counter from "./components/Counter.js";
+import Counter from "./components/Counter.jsx";
 import Home from "./pages/Home.jsx";
 import Profile from "./pages/Profile.jsx";
 
